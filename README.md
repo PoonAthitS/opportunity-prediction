@@ -3,7 +3,7 @@ Author: [Poon Athit S. ](https://www.linkedin.com/in/athit-srimachand/)
 Technologies: Python, Machine Learning, Data Manipulation
 
 ## 1. Introduction
-The purpose of this project is to develop 3 machine learning models focused on predicting business opportunities, enhancing the firm's revenue forecasting capabilities.
+The purpose of this project is to develop 3 machine learning models focused on predicting business opportunities, enhancing the firm's revenue forecasting capabilities. This project was conducted in collaboration with a leading marketing technology consulting firm.
 
 ## 2. Model Overview
 This project leverages the following technologies for Exploratory Data Analysis (EDA), feature engineering, machine learning modeling, evaluation, and interpretation:
